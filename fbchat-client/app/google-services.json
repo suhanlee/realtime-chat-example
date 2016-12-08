@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "317728220948",
+    "firebase_url": "https://fbchat-16718.firebaseio.com",
+    "project_id": "fbchat-16718",
+    "storage_bucket": "fbchat-16718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317728220948:android:d49bfffd5097a8bf",
+        "android_client_info": {
+          "package_name": "com.sundayblues.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317728220948-74imh7aulqut5oaoggvv3t2s6jld4v6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sundayblues.fbchat",
+            "certificate_hash": "944AA44EC320B32842E3623A9C74EA8D7341E382"
+          }
+        },
+        {
+          "client_id": "317728220948-eb06tfktmpvo78mnq3s6p12ijae9sr7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvmuel9aLZ6Tt45uzEYFGqZ5ZGTpWZ850"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317728220948-eb06tfktmpvo78mnq3s6p12ijae9sr7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
